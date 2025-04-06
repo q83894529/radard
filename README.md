@@ -67,4 +67,4 @@ curl http://127.0.0.1:5005/status
 ### License
 Radar is open source and permissively licensed under the ISC license. See the LICENSE file for more details.
 
-If you are a financial institution, please contact info@radr.biz for enterprise licensing. If you are not a financial institution and you offer public service, you must list on your website and terms of service that your service is an Unofficial Radr Gateway.
+If you are a financial institution, please contact info@radr.biz for enterprise licensing.  If you are not a financial institution and you offer public service, you must list on your website and terms of service that your service is an Unofficial Radr Gateway.
